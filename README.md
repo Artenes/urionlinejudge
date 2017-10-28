@@ -1,2 +1,2 @@
 # urionlinejudge
-My solutions for uri online judge problems
+My solutions for uri online judge problems, all made in c++.
